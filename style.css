@@ -1,0 +1,15 @@
+.asalari-ustun{
+    width: 100%;
+    min-height : 700px;
+    background-color: #FF9D2D;
+    border-radius: 30px;
+}
+.col-5-bg{
+    background-color:burlywood;
+    border-radius: 10px;
+}
+.footer{
+    width: 100%;
+    min-height: 150px;
+    background-color:#FF9D2D;
+}
